@@ -1,2 +1,2 @@
 # RfuerMAFKpackage
-Einführung in R
+Dies ist ein interaktiver Kurs zur Einführung in R
